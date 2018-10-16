@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="person">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="firstname" type="xs:string"/>
+                <xs:element name="lastname" type="xs:string"/>
+                <xs:element name="gender" type="xs:string"/>
+                <xs:element name="dob" type="xs:date"/>
+                <xs:element name="address" maxOccurs="unbounded">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="line1" type="xs:string"/>
+                            <xs:element name="line2" type="xs:string"/>
+                            <xs:element name="line3" type="xs:string"/>
+                            <xs:element name="state" type="xs:string"/>
+                            <xs:element name="type" type="xs:string"/>
+                            <xs:element name="zipcode" type="xs:positiveInteger"/>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>

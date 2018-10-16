@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/725723/Downloads/mysql-connector-java-5.1.47.jar"/>
+	<classpathentry kind="lib" path="C:/Users/725723/Downloads/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/725723/Downloads/slf4j-api-1.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/725723/Downloads/slf4j-log4j12-1.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/725723/Desktop/hibernate-distribution-3.5.5-Final/hibernate3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/725723/Desktop/hibernate-distribution-3.5.5-Final/lib/jpa/hibernate-jpa-2.0-api-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/725723/Desktop/hibernate-distribution-3.5.5-Final/lib/required/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/725723/Desktop/hibernate-distribution-3.5.5-Final/lib/required/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/725723/Desktop/hibernate-distribution-3.5.5-Final/lib/required/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/725723/Desktop/hibernate-distribution-3.5.5-Final/lib/required/javassist-3.9.0.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/725723/Desktop/hibernate-distribution-3.5.5-Final/lib/required/jta-1.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/725723/Downloads/apache-tomcat-8.5.31/lib/jsp-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/725723/Downloads/apache-tomcat-8.5.31/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/725723/Downloads/apache-tomcat-8.5.31/lib/annotations-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/725723/Downloads/apache-tomcat-8.5.31/lib/catalina.jar"/>
+	<classpathentry kind="lib" path="C:/Users/725723/Downloads/apache-tomcat-8.5.31/lib/catalina-ant.jar"/>
+	<classpathentry kind="lib" path="C:/Users/725723/Downloads/apache-tomcat-8.5.31/lib/catalina-ha.jar"/>
+	<classpathentry kind="lib" path="C:/Users/725723/Downloads/apache-tomcat-8.5.31/lib/catalina-storeconfig.jar"/>
+	<classpathentry kind="lib" path="C:/Users/725723/Downloads/apache-tomcat-8.5.31/lib/catalina-tribes.jar"/>
+	<classpathentry kind="lib" path="C:/Users/725723/Downloads/apache-tomcat-8.5.31/lib/ecj-4.6.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/725723/Downloads/apache-tomcat-8.5.31/lib/el-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/725723/Downloads/apache-tomcat-8.5.31/lib/jasper.jar"/>
+	<classpathentry kind="lib" path="C:/Users/725723/Downloads/apache-tomcat-8.5.31/lib/jasper-el.jar"/>
+	<classpathentry kind="lib" path="C:/Users/725723/Downloads/apache-tomcat-8.5.31/lib/jaspic-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/725723/Downloads/apache-tomcat-8.5.31/lib/tomcat-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/725723/Downloads/apache-tomcat-8.5.31/lib/tomcat-coyote.jar"/>
+	<classpathentry kind="lib" path="C:/Users/725723/Downloads/apache-tomcat-8.5.31/lib/tomcat-dbcp.jar"/>
+	<classpathentry kind="lib" path="C:/Users/725723/Downloads/apache-tomcat-8.5.31/lib/tomcat-i18n-es.jar"/>
+	<classpathentry kind="lib" path="C:/Users/725723/Downloads/apache-tomcat-8.5.31/lib/tomcat-i18n-fr.jar"/>
+	<classpathentry kind="lib" path="C:/Users/725723/Downloads/apache-tomcat-8.5.31/lib/tomcat-i18n-ja.jar"/>
+	<classpathentry kind="lib" path="C:/Users/725723/Downloads/apache-tomcat-8.5.31/lib/tomcat-jdbc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/725723/Downloads/apache-tomcat-8.5.31/lib/tomcat-jni.jar"/>
+	<classpathentry kind="lib" path="C:/Users/725723/Downloads/apache-tomcat-8.5.31/lib/tomcat-util.jar"/>
+	<classpathentry kind="lib" path="C:/Users/725723/Downloads/apache-tomcat-8.5.31/lib/tomcat-util-scan.jar"/>
+	<classpathentry kind="lib" path="C:/Users/725723/Downloads/apache-tomcat-8.5.31/lib/tomcat-websocket.jar"/>
+	<classpathentry kind="lib" path="C:/Users/725723/Downloads/apache-tomcat-8.5.31/lib/websocket-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/725723/Desktop/elearning/ADVANCE JAVA/Spring/AMSBatch/dist/lib/activation.jar"/>
+	<classpathentry kind="lib" path="C:/Users/725723/Desktop/elearning/ADVANCE JAVA/Spring/AMSBatch/dist/lib/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/725723/Desktop/elearning/ADVANCE JAVA/Spring/AMSBatch/dist/lib/asm-3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/725723/Desktop/elearning/ADVANCE JAVA/Spring/AMSBatch/dist/lib/aspectjrt-1.6.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/725723/Desktop/elearning/ADVANCE JAVA/Spring/AMSBatch/dist/lib/aspectjweaver-1.6.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/725723/Desktop/elearning/ADVANCE JAVA/Spring/AMSBatch/dist/lib/cglib-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/725723/Desktop/elearning/ADVANCE JAVA/Spring/AMSBatch/dist/lib/commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/725723/Desktop/elearning/ADVANCE JAVA/Spring/AMSBatch/dist/lib/jaxb1-impl.jar"/>
+	<classpathentry kind="lib" path="C:/Users/725723/Desktop/elearning/ADVANCE JAVA/Spring/AMSBatch/dist/lib/jaxb-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/725723/Desktop/elearning/ADVANCE JAVA/Spring/AMSBatch/dist/lib/jaxb-impl.jar"/>
+	<classpathentry kind="lib" path="C:/Users/725723/Desktop/elearning/ADVANCE JAVA/Spring/AMSBatch/dist/lib/jaxb-xjc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/725723/Desktop/elearning/ADVANCE JAVA/Spring/AMSBatch/dist/lib/jsr173_api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/725723/Desktop/elearning/ADVANCE JAVA/Spring/AMSBatch/dist/lib/spring-aop-3.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/725723/Desktop/elearning/ADVANCE JAVA/Spring/AMSBatch/dist/lib/spring-asm-3.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/725723/Desktop/elearning/ADVANCE JAVA/Spring/AMSBatch/dist/lib/spring-aspects-3.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/725723/Desktop/elearning/ADVANCE JAVA/Spring/AMSBatch/dist/lib/spring-beans-3.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/725723/Desktop/elearning/ADVANCE JAVA/Spring/AMSBatch/dist/lib/spring-context-3.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/725723/Desktop/elearning/ADVANCE JAVA/Spring/AMSBatch/dist/lib/spring-context-support-3.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/725723/Desktop/elearning/ADVANCE JAVA/Spring/AMSBatch/dist/lib/spring-core-3.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/725723/Desktop/elearning/ADVANCE JAVA/Spring/AMSBatch/dist/lib/spring-expression-3.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/725723/Desktop/elearning/ADVANCE JAVA/Spring/AMSBatch/dist/lib/spring-instrument-3.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/725723/Desktop/elearning/ADVANCE JAVA/Spring/AMSBatch/dist/lib/spring-instrument-tomcat-3.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/725723/Desktop/elearning/ADVANCE JAVA/Spring/AMSBatch/dist/lib/spring-jdbc-3.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/725723/Desktop/elearning/ADVANCE JAVA/Spring/AMSBatch/dist/lib/spring-jms-3.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/725723/Desktop/elearning/ADVANCE JAVA/Spring/AMSBatch/dist/lib/spring-orm-3.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/725723/Desktop/elearning/ADVANCE JAVA/Spring/AMSBatch/dist/lib/spring-oxm-3.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/725723/Desktop/elearning/ADVANCE JAVA/Spring/AMSBatch/dist/lib/spring-struts-3.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/725723/Desktop/elearning/ADVANCE JAVA/Spring/AMSBatch/dist/lib/spring-test-3.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/725723/Desktop/elearning/ADVANCE JAVA/Spring/AMSBatch/dist/lib/spring-tx-3.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/725723/Desktop/elearning/ADVANCE JAVA/Spring/AMSBatch/dist/lib/spring-web-3.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/725723/Desktop/elearning/ADVANCE JAVA/Spring/AMSBatch/dist/lib/spring-webmvc-3.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/725723/Desktop/elearning/ADVANCE JAVA/Spring/AMSBatch/dist/lib/spring-webmvc-portlet-3.0.2.RELEASE.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
